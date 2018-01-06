@@ -1,7 +1,4 @@
 /// @description Break up and get smaller
-
-
-
 switch (sprite_index){
 	case spr_rock_large:
 		scp_rocks_break_apart(spr_rock_medium);
