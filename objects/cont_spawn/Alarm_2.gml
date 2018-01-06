@@ -5,8 +5,8 @@ object_set_sprite(obj_rock_large,rock_sprite);
 spawn_id = instance_create_layer(0,0,"Instances",obj_rock_large);
 
 do {
-	spawn_id.x = random(room_width);
-	spawn_id.y = random(room_height);
+	spawn_id.x = random_range(room_width * .25,room_width *.75);
+	spawn_id.y = random_range(room_height *.25,room_height*.75);
 	with(spawn_id){
 		collision = place_meeting(x,y,obj_rock_large);
 	}
