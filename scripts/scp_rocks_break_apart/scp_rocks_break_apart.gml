@@ -1,6 +1,6 @@
-/// @desc break rocks in to 2-4
+/// @desc break rocks in to random number of smaller rocks
 /// @arg New size
-repeat (irandom_range(1,3)){
+repeat (irandom_range(2,4)){
 	with (instance_create_layer(x,y,"Instances",obj_rock_large)){
 		sprite_index = argument0;
 		direction = instance_nearest(x,y,obj_rock_large).direction;

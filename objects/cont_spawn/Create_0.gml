@@ -1,7 +1,7 @@
 /// @description 
 randomize();
 // Spawn Rocks
-asteroid_qty = 5;
+asteroid_qty = 1;
 repeat (asteroid_qty){
 	do{
 		new_x = random(room_width);
@@ -10,9 +10,10 @@ repeat (asteroid_qty){
 		
 	with (instance_create_layer(new_x,new_y,"Instances",obj_rock_large)){
 		sprite_index = spr_rock_large;
+		damage = 40;
 	};
 };
 
 
 // Spawn Enemy
-alarm[0] = room_speed * random_range(10,15);
+alarm[0] = room_speed * random_range(5,6);

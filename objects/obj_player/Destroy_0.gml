@@ -6,3 +6,4 @@ repeat (irandom(500)){
 		motion_add(random(360),random(1));
 	}
 }
+

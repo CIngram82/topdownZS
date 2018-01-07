@@ -7,7 +7,7 @@ with (instance_create_layer(x + lengthdir_x(20, other.image_angle),
 		} else	direction = other.direction;
 		
 		image_angle = direction;
-		speed = 4;
+		speed = 6;
 	}
 //instance_create_layer(x,y,"Instances",obj_bullet_red);
 alarm[1] = room_speed * random_range(3,5);

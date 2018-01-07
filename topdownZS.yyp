@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "45d3cfe5-5268-4ea9-adb7-1619374881d1",
+            "Value": {
+                "id": "f0ae4fbd-ad7f-4d5f-ac3c-3c2e724a57d1",
+                "resourcePath": "objects\\obj_shield\\obj_shield.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4ac43974-6927-4230-b47e-3a9d60de1bba",
             "Value": {
                 "id": "b4a0f6ef-9abc-4a07-bc4c-3d914d647807",
@@ -252,14 +260,6 @@
                 "id": "723f2a2d-78d5-4fbd-b574-780e8934b13b",
                 "resourcePath": "views\/5a667c6b-5d35-4cde-9e00-404f109b4cd5.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5bd69304-8670-40b2-bd69-71c0f44e4ded",
-            "Value": {
-                "id": "429881a0-863d-48d9-bbed-909da0ddaacb",
-                "resourcePath": "objects\/obj_healthPack\/obj_healthPack.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -347,6 +347,14 @@
             "Value": {
                 "id": "2d7b4039-cefa-41a2-afcb-6f154f2571f8",
                 "resourcePath": "sprites\/spr_lazer_red\/spr_lazer_red.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "798e0043-f0df-412c-ae6b-1911107e2db3",
+            "Value": {
+                "id": "3d76b3cd-372b-44b3-9717-a15e28969d5b",
+                "resourcePath": "sprites\\spr_shield\\spr_shield.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -556,6 +564,14 @@
                 "id": "db66b1f6-ba3a-4b98-8d2a-54f89066c8d3",
                 "resourcePath": "views\/f7be0dc7-46d7-45cf-996a-9e12c9fa5060.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb526a37-6610-49d4-8b07-dc6b4db52f11",
+            "Value": {
+                "id": "ab8e17bf-acab-4a86-a2ba-cfb08a7d26da",
+                "resourcePath": "objects\\cont_draw_hud\\cont_draw_hud.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
