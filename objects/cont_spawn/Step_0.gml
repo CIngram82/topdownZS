@@ -1,4 +1,6 @@
 /// @description 
+
+#region // Spawn Rocks
 if (!instance_exists(obj_rock_large)) && (instance_exists(obj_player)){
 	asteroid_qty += 1;
 	repeat (asteroid_qty){
@@ -11,3 +13,4 @@ if (!instance_exists(obj_rock_large)) && (instance_exists(obj_player)){
 		};
 	};
 };
+#endregion

@@ -18,3 +18,4 @@ alarm[2] = room_speed * 15;
 
 sprite_size = max(sprite_width,sprite_height);
 attack_mode = true;
+points = 25;

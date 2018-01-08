@@ -13,5 +13,5 @@ sprite_size = max(sprite_width,sprite_height);
 weaponFireRate	= 10;
 firing			= false;
 
-instance_create_layer(x,y,"Instances",obj_sight);
+//instance_create_layer(x,y,"Instances",obj_sight);
 instance_create_layer(x,y,"Instances",obj_shield);

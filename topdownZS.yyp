@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "07e32060-0f8a-412a-adf9-51e4726e8b86",
+            "Value": {
+                "id": "98acdc85-4f22-4696-b2e7-0f47ccba09d7",
+                "resourcePath": "rooms\\rm_menu\\rm_menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0b599e1a-1cdb-4d7a-96d7-33f1274c9ef7",
             "Value": {
                 "id": "652af8c7-c899-4a44-be62-c60b22d55644",
@@ -76,6 +84,14 @@
                 "id": "2937c56d-e1d7-410f-9ec5-d055bbb44a56",
                 "resourcePath": "views\/11457d42-beb5-4108-a8a1-8ac9b1bb47cc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "132f91e8-08e6-4060-a93a-9a0f69c4fb41",
+            "Value": {
+                "id": "d0fcf9fa-798e-4c28-bfe1-45827507f9c4",
+                "resourcePath": "fonts\\fnt_sportyV2\\fnt_sportyV2.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -215,6 +231,14 @@
             }
         },
         {
+            "Key": "4bba2033-10a0-4aca-a309-acc69a7e5588",
+            "Value": {
+                "id": "e24646e2-fe9c-4bfb-90da-c14580ca1eca",
+                "resourcePath": "rooms\\rm_intro\\rm_intro.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4e52ed52-a9b3-4917-9c15-a5d60b861f9d",
             "Value": {
                 "id": "842c9f3d-2371-40ba-b1e1-75387029140c",
@@ -311,6 +335,14 @@
             }
         },
         {
+            "Key": "6a74ff88-9676-4e66-8e2b-b04603711a5c",
+            "Value": {
+                "id": "4532b621-7b77-4416-9651-5dff215ed8d6",
+                "resourcePath": "rooms\\rm_credits\\rm_credits.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6f71bb7e-3c5b-4d91-9084-b2552543742c",
             "Value": {
                 "id": "70ea81db-d93e-40e8-9574-f64316f0f63b",
@@ -388,6 +420,14 @@
                 "id": "5109b8f9-f987-417b-87e2-7ab420f6c9ac",
                 "resourcePath": "views\/9091e4b2-8be1-4a4a-aece-ee0bf00b6b63.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92d09b25-039b-420f-b0ab-b765d690fcc8",
+            "Value": {
+                "id": "7d0a653e-80f9-4a78-bec3-5eccd5181c2b",
+                "resourcePath": "rooms\\rm_options\\rm_options.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

@@ -6,5 +6,3 @@ with (instance_create_layer(x + lengthdir_x(15, other.image_angle) ,y + lengthdi
 	speed = obj_player.speed;
 	motion_add(obj_player.facing,1);
 }
-// 
-// 

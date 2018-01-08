@@ -1,6 +1,7 @@
 /// @description 
-/// @description 
-draw_set_alpha(1);
+/// @description
+#region //Health and Shield bars
+draw_set_alpha(.75);
 if instance_exists(obj_shield){
 	draw_healthbar( room_width - 30, 20,
 					room_width - 20, room_height - 20,
@@ -16,3 +17,12 @@ if instance_exists(obj_player){
 					c_black,c_red,c_lime,
 					3,true,true);
 };
+#endregion
+
+// Draw Score
+draw_set_alpha(1);
+draw_set_font(fnt_sportyV2);
+draw_set_color(c_silver);
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
+draw_text(10,10,"SCORE : " + string(score));

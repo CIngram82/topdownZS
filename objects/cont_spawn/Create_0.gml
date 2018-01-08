@@ -16,4 +16,4 @@ repeat (asteroid_qty){
 
 
 // Spawn Enemy
-alarm[0] = room_speed * random_range(5,6);
+alarm[0] = room_speed * random_range(10,15);

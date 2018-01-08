@@ -1,4 +1,5 @@
 /// @description Explode
+score += points;
 repeat (irandom(100)){
 	with (instance_create_layer(x,y,"Instances",obj_blast)){
 		direction = other.direction;
