@@ -1,7 +1,7 @@
 /// @description 
 randomize();
 // Spawn Rocks
-asteroid_qty = 1;
+asteroid_qty = 3;
 repeat (asteroid_qty){
 	do{
 		new_x = random(room_width);

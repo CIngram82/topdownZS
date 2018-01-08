@@ -19,6 +19,12 @@ if instance_exists(obj_player){
 };
 #endregion
 
+// Draw Nuke Count
+if (instance_exists(obj_player)){
+	for (var i = 0; i < obj_player.nuke_count; i++){
+		draw_sprite(spr_nuke_power_up,-1,64 + (i*48), room_height - 64)	
+	}
+}
 // Draw Score
 draw_set_alpha(1);
 draw_set_font(fnt_sportyV2);

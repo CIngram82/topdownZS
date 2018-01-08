@@ -1,7 +1,7 @@
 /// @description 
 
 #region // Spawn Rocks
-if (!instance_exists(obj_rock_large)) && (instance_exists(obj_player)){
+if (!instance_exists(obj_rock_large)) && (instance_exists(obj_player)) && (!instance_exists( obj_nuke_blast)){
 	asteroid_qty += 1;
 	repeat (asteroid_qty){
 		do{
