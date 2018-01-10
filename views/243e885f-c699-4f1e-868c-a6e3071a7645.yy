@@ -7,7 +7,9 @@
         "28b42aca-2cc4-433c-b571-d9a6c52779a3",
         "502ffe84-195b-437a-8730-10a12de1494d",
         "798e0043-f0df-412c-ae6b-1911107e2db3",
-        "41c79c6b-7cd6-4a90-bbb6-20fac696227c"
+        "41c79c6b-7cd6-4a90-bbb6-20fac696227c",
+        "36c4cf08-a4af-41c3-961f-3cccb3b291b6",
+        "bd2f81f8-da2a-4235-aaac-d953489ac70b"
     ],
     "filterType": "GMSprite",
     "folderName": "Objects",

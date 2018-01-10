@@ -7,3 +7,6 @@ repeat (irandom(100)){
 		motion_add(random(360),random(1));
 	}
 }
+if (irandom(3)== 0){
+	instance_create_layer(x,y,"Instances",obj_power_up);	
+}

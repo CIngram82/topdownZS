@@ -14,7 +14,7 @@ if instance_exists(obj_player){
 	draw_healthbar( room_width - 70, 20,
 					room_width - 60, room_height - 20,
 					((global.player_hp/obj_player.maxHp)*100),
-					c_black,c_red,c_lime,
+					c_black,c_green,c_lime,
 					3,true,true);
 };
 

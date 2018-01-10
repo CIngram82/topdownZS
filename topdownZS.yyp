@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "36c4cf08-a4af-41c3-961f-3cccb3b291b6",
+            "Value": {
+                "id": "709d6312-2bb4-4067-9b80-716592dcbe22",
+                "resourcePath": "sprites\\spr_shield_power_up\\spr_shield_power_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a4077a9-583b-43eb-892e-b85d8586459b",
             "Value": {
                 "id": "41a8cfc5-bd6a-432c-aef3-79280a976ee3",
@@ -292,6 +300,14 @@
                 "id": "723f2a2d-78d5-4fbd-b574-780e8934b13b",
                 "resourcePath": "views\/5a667c6b-5d35-4cde-9e00-404f109b4cd5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5af9fe31-da87-4e92-8511-a902e8f0e1c4",
+            "Value": {
+                "id": "5d1df50d-0a1c-415e-9fa2-0faed774ccbd",
+                "resourcePath": "objects\\obj_power_up\\obj_power_up.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -531,6 +547,14 @@
             "Value": {
                 "id": "97829cd3-d884-4865-a214-f013802f9976",
                 "resourcePath": "sprites\/spr_rock_medium\/spr_rock_medium.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bd2f81f8-da2a-4235-aaac-d953489ac70b",
+            "Value": {
+                "id": "ed7d5f5a-d922-4fad-ab26-bb3e267e0611",
+                "resourcePath": "sprites\\spr_laser_power_up\\spr_laser_power_up.yy",
                 "resourceType": "GMSprite"
             }
         },
