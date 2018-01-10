@@ -1,5 +1,5 @@
 /// @description 
-turn		= 2;
+turn	= 2;
 accel		= 0.05;
 max_speed	= 7;
 
@@ -13,6 +13,7 @@ sprite_size = max(sprite_width,sprite_height);
 weaponFireRate	= 10;
 firing			= false;
 nuke_count		= 3;
+laser_charge	= 100;
 
 //instance_create_layer(x,y,"Instances",obj_sight);
 instance_create_layer(x,y,"Instances",obj_shield);

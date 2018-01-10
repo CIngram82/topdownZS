@@ -1,8 +1,5 @@
 /// @description 
-//view_x = camera_get_view_x(view_camera[0]);
-//view_y = camera_get_view_y(view_camera[0]);
-//view_width  = camera_get_view_width (view_camera[0]);
-//view_height = camera_get_view_height(view_camera[0]);
+
 do{
 	x = random_range(-20, room_width  + 20);
 	y = random_range(-20, room_height + 20);
@@ -19,3 +16,4 @@ alarm[2] = room_speed * 15;
 sprite_size = max(sprite_width,sprite_height);
 attack_mode = true;
 points = 25;
+my_health = 100;

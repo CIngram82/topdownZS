@@ -11,3 +11,4 @@ sprite_size = max(sprite_width,sprite_height);
 max_damage = 40;
 min_points = 1;
 damage = max_damage;
+my_health = damage;

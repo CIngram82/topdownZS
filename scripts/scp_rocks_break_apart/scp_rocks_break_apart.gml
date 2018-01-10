@@ -9,6 +9,7 @@ repeat (irandom_range(2,4)){
 		speed	  = instance_nearest(x,y,obj_rock_large).speed;
 		motion_add(random(360),random_range(.15,.3));
 		damage = argument1;
+		my_health = damage;
 	}
 }
 score += argument2;

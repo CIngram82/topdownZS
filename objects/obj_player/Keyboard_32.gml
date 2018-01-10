@@ -1,6 +1,6 @@
 /// @description Insert description here
 
-if (!firing){
+if (!firing) && (laser_charge <= 0){
 	firing = true;
 	alarm[0] = weaponFireRate;
 	with (instance_create_layer(x + lengthdir_x(20, other.image_angle),y + lengthdir_y(20,other.image_angle),"Instances",obj_bullet)){

@@ -11,10 +11,18 @@ if instance_exists(obj_shield){
 };
 
 if instance_exists(obj_player){
-	draw_healthbar( room_width - 50, 20,
-					room_width - 40, room_height - 20,
+	draw_healthbar( room_width - 70, 20,
+					room_width - 60, room_height - 20,
 					((global.player_hp/obj_player.maxHp)*100),
 					c_black,c_red,c_lime,
+					3,true,true);
+};
+
+if instance_exists(obj_player){
+	draw_healthbar( room_width - 50, 20,
+					room_width - 40, room_height - 20,
+					obj_player.laser_charge,
+					c_black,c_orange,c_yellow,
 					3,true,true);
 };
 #endregion
