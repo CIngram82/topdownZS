@@ -1,5 +1,5 @@
 /// @description 
-
+sprite_index = choose(spr_enemy_grey1,spr_enemy_grey2);
 do{
 	x = random_range(-20, room_width  + 20);
 	y = random_range(-20, room_height + 20);
