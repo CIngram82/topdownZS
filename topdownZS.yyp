@@ -375,14 +375,6 @@
             }
         },
         {
-            "Key": "7dc4129e-517f-4e68-b53c-1a7a8b4a1f49",
-            "Value": {
-                "id": "1f799622-f420-4a5b-9e03-e945113eeb57",
-                "resourcePath": "objects\/obj_sight\/obj_sight.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7ec4b702-a291-421d-a4fd-7ec48f05e5e2",
             "Value": {
                 "id": "a46eb6bb-e5a6-4c27-a517-3a581f8f0c43",
@@ -476,6 +468,14 @@
                 "id": "facdfa9c-606a-4ac7-8272-e9b45086c7b6",
                 "resourcePath": "views\\b02de89d-c9d2-41d3-b25b-6d6153e8b790.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b08525c2-e163-4894-923f-89389e55ef8e",
+            "Value": {
+                "id": "777b8701-fded-4e8e-8350-cdb43a6c0dec",
+                "resourcePath": "rooms\\rm_options\\rm_options.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -612,6 +612,14 @@
                 "id": "c72ce2b6-7ceb-4a53-b6de-d5f5637d6e0f",
                 "resourcePath": "sprites\/spr_lazer_green\/spr_lazer_green.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f51671bb-36b5-4020-a89b-cf0443ff90e8",
+            "Value": {
+                "id": "6aead8e4-a933-407f-8a3a-57892f6d48cc",
+                "resourcePath": "rooms\\rm_credits\\rm_credits.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

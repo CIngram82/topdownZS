@@ -1,0 +1,1 @@
+credits_y += (credits_y_target - credits_y) / credits_speed;

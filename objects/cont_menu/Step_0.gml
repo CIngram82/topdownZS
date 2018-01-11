@@ -18,7 +18,7 @@ if(menu_control){
 	}	
 }
 
-if (menu_x > gui_width + 190) && (menu_committed != -1){
+if (menu_x > gui_width + 100) && (menu_committed != -1){
 	switch (menu_committed){
 		case 3: default: scp_slide_transition(TRANS_MODE.NEXT); 
 			break;
