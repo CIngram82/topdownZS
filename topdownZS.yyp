@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "5200ada7-5e38-4cd0-b8a6-5c5763b3ff26",
+            "Value": {
+                "id": "e7c0a6da-26a8-463d-bf70-473ff165daef",
+                "resourcePath": "sounds\\mus_combat\\mus_combat.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "55e34a61-4279-42ec-996f-2f0ea30e05b6",
             "Value": {
                 "id": "4c982933-7af7-439e-8ec4-6cc9161f3f18",
@@ -332,6 +340,14 @@
                 "id": "58bdbcf5-42fc-486e-963d-e638f8943b47",
                 "resourcePath": "scripts\\scp_slide_transition\\scp_slide_transition.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6e4a1b3e-1e22-4137-846e-21c54f4ba597",
+            "Value": {
+                "id": "00e30ce2-bf82-4bf4-9e9e-4876f955e0fb",
+                "resourcePath": "sounds\\mus_menu\\mus_menu.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -580,6 +596,14 @@
                 "id": "a6e61f4c-a969-4e5d-9f86-cde9121021ec",
                 "resourcePath": "sprites\\spr_explsion\\spr_explsion.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2a7798b-41c1-427e-87c3-bfefc89168ac",
+            "Value": {
+                "id": "a09cf61d-719c-4517-90c7-73cb641b640d",
+                "resourcePath": "objects\\cont_music_and_sounds\\cont_music_and_sounds.yy",
+                "resourceType": "GMObject"
             }
         },
         {
