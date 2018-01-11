@@ -14,7 +14,7 @@ menu_committed = -1;
 menu_control = true;
 
 menu[3] = "New Game";
-menu[2] = "Options";
+menu[2] = "Controls";
 menu[1] = "Credits";
 menu[0] = "Quit";
 

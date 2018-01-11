@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "a26a2c64-e79f-4bce-91e8-123fef796a0a",
+            "Value": {
+                "id": "788e1074-2ec3-41fd-9c73-a7e87a6f0914",
+                "resourcePath": "fonts\\fnt_sportyV2_18px\\fnt_sportyV2_18px.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "aa278268-5e22-4703-a327-fda9bcac1894",
             "Value": {
                 "id": "f84a01a4-4843-4154-97cd-89cbe016fa90",
@@ -490,7 +498,7 @@
             "Key": "b08525c2-e163-4894-923f-89389e55ef8e",
             "Value": {
                 "id": "777b8701-fded-4e8e-8350-cdb43a6c0dec",
-                "resourcePath": "rooms\\rm_options\\rm_options.yy",
+                "resourcePath": "rooms\\rm_controls\\rm_controls.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -620,6 +628,14 @@
                 "id": "128a8ea1-c58e-4c25-a29e-b0b5aea01a3a",
                 "resourcePath": "views\/dc0ba438-a3b5-48b3-ba79-affe1b0c627f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e112793a-cb9d-4833-b488-c2e81062770e",
+            "Value": {
+                "id": "5a97c4ad-9f1d-4830-882f-d039db9c1fc9",
+                "resourcePath": "objects\\obj_controls\\obj_controls.yy",
+                "resourceType": "GMObject"
             }
         },
         {

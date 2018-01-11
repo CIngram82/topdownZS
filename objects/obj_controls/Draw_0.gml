@@ -21,16 +21,16 @@ draw_set_color(c_white);
 draw_text(xx,			yy,			txt);
 
 
-txt	= "Created by Chris Ingram\n\n";
-txt += "Art by Kenney -- www.kenney.nl -- License (CC0) \n";
-txt += "Sound Effects by Kenney -- www.kenney.nl -- License (CC0)\n";
-txt += "Music by YD -- https://ydstuff.wordpress.com/ -- License (CC0) \n"
+txt	= "WASD to move \n";
+txt += "Space to fire laser\n";
+txt += "N to use nuke \n";
+txt += "R to return to main menu"
 
-
-yy	= credits_y;
+draw_set_font(fnt_sportyV2);
+yy	= credits_y_target;
 draw_set_color(c_black);
 draw_set_valign(fa_middle);
-draw_set_font(fnt_sportyV2);
+
 draw_text(xx +offset,	yy,			txt);
 draw_text(xx -offset,	yy,			txt);
 draw_text(xx,			yy +offset,	txt);
